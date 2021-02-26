@@ -1,0 +1,6 @@
+main: de.lamacraft.rankplugin.main.Main
+name: RankPlugin
+author: Lama_Agent
+version: 1.0
+loadbefore:
+  - LobbyPlugin
